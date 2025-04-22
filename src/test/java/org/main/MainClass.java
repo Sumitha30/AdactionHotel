@@ -129,6 +129,12 @@ public class MainClass extends BaseClass{
 		sendKeys(bh.cvvnum(), "236678888");
 		
 		click(bh.boooknowbtn());
+		
+		
+		System.out.println("Test 1");
+		System.out.println("Test 2");
+		System.out.println("Test 3");
+		System.out.println("Test 4");
 			
 			
 		}
